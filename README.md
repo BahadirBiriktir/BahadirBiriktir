@@ -3,6 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ 🌱 I’m currently learning JavaScript
+ 📫 How to reach me mehmetfkuruldak@gmail.com
+ ⚡ Fun fact I'm not a easy laugher, looking for good sense of humour
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
