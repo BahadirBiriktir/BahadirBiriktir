@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  🌱 I’m currently learning JavaScript </p>
- <p>📫 How to reach me mehmetfkuruldak@gmail.com </p>
+ <p>📫 How to reach me bahadirbrktr@gmail.com </p>
 <p> ⚡ Fun fact I'm not a easy laugher, looking for good sense of humour </p>
 
 
